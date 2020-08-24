@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/GeorgeNicola/face-recognition/static/css/main.fd7e42da.chunk.css",
+    "main.js": "/GeorgeNicola/face-recognition/static/js/main.5085346d.chunk.js",
+    "main.js.map": "/GeorgeNicola/face-recognition/static/js/main.5085346d.chunk.js.map",
+    "runtime-main.js": "/GeorgeNicola/face-recognition/static/js/runtime-main.8fc40838.js",
+    "runtime-main.js.map": "/GeorgeNicola/face-recognition/static/js/runtime-main.8fc40838.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/GeorgeNicola/face-recognition/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.d02ce618.chunk.js": "/GeorgeNicola/face-recognition/static/js/2.d02ce618.chunk.js",
+    "static/js/2.d02ce618.chunk.js.map": "/GeorgeNicola/face-recognition/static/js/2.d02ce618.chunk.js.map",
+    "index.html": "/GeorgeNicola/face-recognition/index.html",
+    "precache-manifest.8fb110388862a7c010e91697e2fa59c1.js": "/GeorgeNicola/face-recognition/precache-manifest.8fb110388862a7c010e91697e2fa59c1.js",
+    "service-worker.js": "/GeorgeNicola/face-recognition/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/GeorgeNicola/face-recognition/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.fd7e42da.chunk.css.map": "/GeorgeNicola/face-recognition/static/css/main.fd7e42da.chunk.css.map",
+    "static/js/2.d02ce618.chunk.js.LICENSE.txt": "/GeorgeNicola/face-recognition/static/js/2.d02ce618.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8fc40838.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.d02ce618.chunk.js",
+    "static/css/main.fd7e42da.chunk.css",
+    "static/js/main.5085346d.chunk.js"
+  ]
+}
