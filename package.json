@@ -2,6 +2,7 @@
   "name": "face-recognition-app",
   "version": "0.1.0",
   "private": true,
+  "homepage":"https://GeorgeNicola.github.io/face-recognition/",
   "main": "index.js",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
